@@ -125,7 +125,7 @@
       },
       itemSelectedClass: {
         type: String,
-        default: 'selected'
+        default: null
       }
     },
     data () {
